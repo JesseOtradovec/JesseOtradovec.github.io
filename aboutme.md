@@ -10,9 +10,6 @@ My name is Jesse Otradovec. I have the following qualities:
 - I am currently editing this silly little webpage to learn about making a portfolio site at Lambda School. 
 - Lambda School is fun. Data Science is fun. Physics is fun. Wouldn't life be really fun if I had a job where I made physics plots beautiful? And did data analysis? Especially about physics? Yea... I have interests... 
 - I like D&D too and am working on organizing Lambda students into a campaign. 
-- I'm extremely loyal to my pack.
-
-What else do you need?
 
 ### my history
 
