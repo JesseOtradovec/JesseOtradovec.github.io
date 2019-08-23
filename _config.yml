@@ -70,11 +70,11 @@ author:
 social-network-links:
   rss: true
   email: "jesse.otradovec@gmail.com"
-  facebook: 
-  github: JesseOtradovec
-  twitter: N/A
+  facebook: 'https://www.facebook.com/profile.php?id=100009226413195&ref=bookmarks'
+  github: 'https://github.com/JesseOtradovec'
+  twitter: 'https://twitter.com/JesseOtradovec'
 #  reddit: yourname
-#  linkedin: daattali
+linkedin: 'https://www.linkedin.com/in/jesse-otradovec-2bb790173/'
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://jesseotradovec.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
