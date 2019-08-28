@@ -75,7 +75,7 @@ Using frequency t tests, I found with a 95% confidence level that:
 
 #### Feminism
 
-Conclusion| p-value|
+|Conclusion| p-value|
 | :------ |:--- |
 |There is gender equity in author average rating, book average rating, and number of ratings.| N/A|
 |Women do better in author rating count than men in all feminism catagories|0.005051166802266278|
