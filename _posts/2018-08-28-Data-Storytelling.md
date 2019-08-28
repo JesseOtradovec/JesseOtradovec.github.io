@@ -49,10 +49,10 @@ Using frequency t tests, I found with a 95% confidence level that:
 
 | Conclusion | p-value|
 | :------ |:--- |
-|Men do better in author average rating than women in fantasy|0.0002765396339034226| 
+|Men do better in author average rating than women in Fantasy|0.0002765396339034226| 
 |Within Fantasy, author rating count does not show a statistically significant difference along gender lines|N/A| 
-|Men do better in book average rating than women in fantasy|0.033266842347338774|
-|Men do better in number of book ratings than women in fantasy|1.853099916310632e-05|
+|Men do better in book average rating than women in Fantasy|0.033266842347338774|
+|Men do better in number of book ratings than women in Fantasy|1.853099916310632e-05|
 
 #### Romance
 ![romance](/img/Romance (1).png){: .center-block :}
@@ -69,7 +69,7 @@ Using frequency t tests, I found with a 95% confidence level that:
 | Conclusion | p-value|
 | :------ |:--- |
 |Women do better in author average rating than men in Romance|0.0025460544341681266| 
-|Within Fantasy, author rating count does not show a statistically significant difference along gender lines|N/A| 
+|Within Romance, author rating count does not show a statistically significant difference along gender lines|N/A| 
 |Women do better in book average rating than men in Romance|0.002647443921313459|
 |Men do better in number of book ratings than women in Romance|0.0013340408057532756|
 
