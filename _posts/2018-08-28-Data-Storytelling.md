@@ -80,3 +80,9 @@ Using frequency t tests, I found with a 95% confidence level that:
 |There is gender equity in author average rating, book average rating, and number of ratings.| N/A|
 |Women do better in author rating count than men in all feminism catagories|0.005051166802266278|
 
+#### Limitations of the data
+It is worth noting that we don't know the author's true gender, which is a non-binary value. We just know the apparent gender of the author's pen name. It is well known that it is common for women in most genres to use men's names as pennames when trying to avoid sexism, and it is also common in romance genres for men to use women's pen names. So. *shrug* There's also the interesting question of how various books in various genres are rated and if people are rating within their own or outside thier own genre of interest. 
+
+#### Takeaway
+
+My personal takeaway from this? I sort of had to massage the data to find allocations where women were doing better than men by these metrics. Sexism is alive and well in how we consume books. It is a problem. Read women's books. Review them. Just do it. There's my takeaway. 
