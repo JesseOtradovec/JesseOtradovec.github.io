@@ -26,7 +26,8 @@ Here's a useless table:
 | Two | Three | One |
 
 I did, however, do my t-tests, and found that:
-| | p-value|
+
+| Title | p-value|
 | :------ |:--- |
 |Men do better in author average rating than women for all genres combined|0.0004366582094875568| 
 |Men do better in author rating count than women for all genres combined|5.4896001041356025e-05| 
