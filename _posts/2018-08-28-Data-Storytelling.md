@@ -36,14 +36,14 @@ Here I need to put a note that it matters how you bin data. In particular, the d
 ###### Allow me to summarize my findings with some plots and some charts.
 
 ##### Fantasy
-![fantasy]/img/Fantasy(1).png{: .center-block :}
+![fantasy](/img/Fantasy(1).png){: .center-block :}
 
 Above, purple dots are furthest from other dots while yellow dots are closest to other dots. 
 Then we can look at the breakdown between men and women.
 
-![fantasymen]/img/Fantasymen.png{: .center-block :}
+![fantasymen](/img/Fantasymen.png){: .center-block :}
 
-![fantasywomen]/img/Fantasywomen.png{: .center-block :}
+![fantasywomen](/img/Fantasywomen.png){: .center-block :}
 
 Using frequency t tests, I found with a 95% confidence level that:
 
