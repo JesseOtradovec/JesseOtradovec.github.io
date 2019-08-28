@@ -11,4 +11,7 @@ For my Data Storytelling project, I looked at this dataset from GoodReads of som
 #### Methodology
 I loaded in the dataset and dropped duplicate books from the data. I only kept the columns I was interested in. During my exploratory phase with the data, I plotted histograms of the book average rating and author average rating, comparing the histogram of men with that of women. I noticed there was some difference in the mean, but couldn't tell without doing a t test if this difference was statistically significant. 
 
+image: /img/AuthorAveTotalHistograms.png 
+
+image /img/BookTotalAve.png
 
