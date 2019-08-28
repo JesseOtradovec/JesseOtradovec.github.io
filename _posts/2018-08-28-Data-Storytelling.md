@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data StoryTelling Project!
-image: /img/AuthorAveTotalHistograms.jpeg
+image: /img/AuthorAveTotalHistograms.png
 ---
 
 ### GoodReads Data
