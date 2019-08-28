@@ -16,12 +16,19 @@ I loaded in the dataset and dropped duplicate books from the data. I only kept t
 
 ![book](/img/BookTotalAve.png){: .center-block :}
 
-I did, however, do my t-tests, and found that:
+Here's a useless table:
 
-Men do better in author average rating than women for all genres combined, pvalue 0.0004366582094875568
- 
-Men do better in author rating count than women for all genres combined, pvalue 5.4896001041356025e-05
- 
-Men do better in book average rating than women for all genres combined, pvalue 3.1790828751819067e-06
- 
-Men do better in number of book ratings than women for all genres combined, pvalue 1.4028101661091678e-11
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+I did, however, do my t-tests, and found that:
+| | p-value|
+| :------ |:--- |
+|Men do better in author average rating than women for all genres combined|0.0004366582094875568| 
+|Men do better in author rating count than women for all genres combined|5.4896001041356025e-05| 
+|Men do better in book average rating than women for all genres combined|3.1790828751819067e-06|
+|Men do better in number of book ratings than women for all genres combined|1.4028101661091678e-11|
