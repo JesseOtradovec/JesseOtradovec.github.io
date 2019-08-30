@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Data StoryTelling Project!
+subtitle: Goodreads Data
 image: /img/Fiction (1).png
 ---
 
