@@ -39,13 +39,13 @@ avatar: "/img/jessegood.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#503fcc"
-navbar-text-col: "#2209d9"
-navbar-children-col: "#1f1087"
-page-col: "#afabcc"
+navbar-text-col: "#b9b4de"
+navbar-children-col: "#afabcc"
+page-col: "#e1dff5"
 link-col: "#a39dd4"
-hover-col: "#0085A1"
+hover-col: "#b9b4de"
 footer-col: "#503fcc"
-footer-text-col: "#2209d9"
+footer-text-col: "#b9b4de"
 footer-link-col: "#a39dd4"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
