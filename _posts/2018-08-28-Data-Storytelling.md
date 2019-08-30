@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data StoryTelling Project!
-image: /img/AuthorAveTotalHistograms.png
+image: /img/Fiction (1).png
 ---
 
 ## GoodReads Data
@@ -20,7 +20,11 @@ I loaded in the dataset and dropped duplicate books from the data. I only kept t
 
 ![book](/img/BookTotalAve.png){: .center-block :}
 
-I did, however, do my t-tests, and found that:
+Then I did t tests where I looped through each combination of genre and subgenre (listed in the dataset as genre1 and genre2) to find in what genres women were doing better than men by these metrics. When I did that, I only found that men were doing better than women. I didn't like those results, and I didn't trust them exactly, so I changed how I binned the data to further my exploration.
+
+In these tests, I asked it to sort all rows in the dataframe where genre1 _or_ genre 2 contained the genre keyword in either lowercase or uppercase.
+
+When I did these t tests, I found that:
 
 | Conclusion | p-value|
 | :------ |:--- |
@@ -57,9 +61,6 @@ Using frequency t tests, I found with a 95% confidence level that:
 #### Romance
 ![romance](/img/Romance (1).png){: .center-block :}
 
-Above, purple dots are furthest from other dots while yellow dots are closest to other dots. 
-Then we can look at the breakdown between men and women.
-
 ![romancemen](/img/Romancemen.png){: .center-block :}
 
 ![romancewomen](/img/Romancewomen.png){: .center-block :}
@@ -73,12 +74,29 @@ Using frequency t tests, I found with a 95% confidence level that:
 |Women do better in book average rating than men in Romance|0.002647443921313459|
 |Men do better in number of book ratings than women in Romance|0.0013340408057532756|
 
+#### Fiction
+![fiction](/img/Fiction (1).png){: .center-block :}
+
+![fictionmen](/img/Fictionmen.png){: .center-block :}
+
+![fictionwomen](/img/Fictionwomen.png){: .center-block :}
+
+Using frequency t tests, I found with a 95% confidence level that:
+
+| Conclusion | p-value|
+| :------ |:--- |
+|Men do better in author average rating than women in Fiction|3.250456456048012e-05| 
+|Within Fiction, men do better than women in author rating count|0.002667064042173123| 
+|Men do better in book average rating than women in Fiction|1.5116661033089678e-06|
+|There is suprisingly gender equity in number of book ratings in Fiction|N/A|
+
 #### Feminism
 
 |Conclusion| p-value|
 | :------ |:--- |
 |There is gender equity in author average rating, book average rating, and number of ratings.| N/A|
 |Women do better in author rating count than men in all feminism catagories|0.005051166802266278|
+| | |
 
 #### Limitations of the data
 It is worth noting that we don't know the author's true gender, which is a non-binary value. We just know the apparent gender of the author's pen name. It is well known that it is common for women in most genres to use men's names as pennames when trying to avoid sexism, and it is also common in romance genres for men to use women's pen names. So. *shrug* There's also the interesting question of how various books in various genres are rated and if people are rating within their own or outside thier own genre of interest. 
