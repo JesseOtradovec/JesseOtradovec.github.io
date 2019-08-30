@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website, A work in progress.
+title: Jesse Otradovec, Data Scientist and Physicist Extraordinaire
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A virtual proof that I'm awesome, a place to put my work
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -61,7 +61,7 @@ footer-img: "/img/bgimage.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jesse Otradovec
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
