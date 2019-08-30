@@ -40,7 +40,7 @@ avatar: "/img/jessegood.jpg"
 
 navbar-col: "#503fcc"
 navbar-text-col: "#b9b4de"
-navbar-children-col: "#afabcc"
+navbar-children-col: "#b9b4de"
 page-col: "#e1dff5"
 link-col: "#a39dd4"
 hover-col: "#b9b4de"
