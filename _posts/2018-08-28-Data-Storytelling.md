@@ -8,7 +8,7 @@ image: /img/Fiction (1).png
 
 ### Abstract
 
-For my Data Storytelling project, I looked at this dataset from GoodReads of some top books. https://www.kaggle.com/brosen255/goodreads-books I then compared number of book reviews, number of author reviews, author average review, and book average review to get a sense of if male or female authors were more or less popular in a statistically significant way for a given genre. I found that while men won out on all metrics in the overall data and in many individual genres, women won out in all metrics for feminism and romance catagories. In Magical Realism (my personal favorite genre), there was no statistically significant difference in these metrics between the sexes.
+For my Data Storytelling project, I looked at this dataset from GoodReads of some top books. https://www.kaggle.com/brosen255/goodreads-books I then compared number of book reviews, number of author reviews, author average review, and book average review to get a sense of if male or female authors were more or less popular in a statistically significant way for a given genre. I found that while men won out on all metrics in the overall data and in many individual genres, women won out in some metrics for feminism and romance catagories. In Magical Realism (my personal favorite genre), there was no statistically significant difference in these metrics between the sexes. However, Magical Realism is a very small subgenre. 
 
 ### Methodology
 
@@ -104,3 +104,6 @@ It is worth noting that we don't know the author's true gender, which is a non-b
 #### Takeaway
 
 My personal takeaway from this? I sort of had to massage the data to find allocations where women were doing better than men by these metrics. Sexism is alive and well in how we consume books. It is a problem. Read women's books. Review them. Just do it. There's my takeaway. 
+
+Here is my google colab where I did all these tests, for reproducability:
+https://colab.research.google.com/drive/1M8NnFTKFHW0dViCzmQIaR1GV4ZCs7PnE
